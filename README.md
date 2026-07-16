@@ -9,10 +9,15 @@ In addition, the learning models demonstrated promising results when using the r
 
 --------------------------------------------------------------
 Real-world datasets:
+
 Breast Cancer: breast_cancer_wisconsin.zip
+
 Heart: statlog_heart.zip
+
 Hepatitis: hepatitis3.zip
+
 Divorce: divorcio1.zip
+
 Sepsi: sepsi.zip
 
 Important: The datasets were obtained from the UCI repository: https://archive.ics.uci.edu/ml/data sets/Divorce+Predictors+data+set
@@ -20,10 +25,15 @@ Algumas datasets devem ser submetidas a pré-processamento. Por exemplo, elimina
 
 --------------------------------------------------------------
 LUISA Algorithm
+
 LUISA uses MMPC.R available at: https://github.com/cran/MXM/blob/master/R/MMPC.R
+
 LUISA uses MXM available at: https://github.com/cran/MXM/tree/master
+
 LUISA is available in: LUISA_ALL.zip
+
 (Observation: MMPC, MXM, and Datasets must be in the same path)
+
 
 --------------------------------------------------------------
 Learning models with complete dataset and application of the non-causal filters
@@ -33,11 +43,17 @@ Workflow: Causalidade_Luisa.knwf
 
 --------------------------------------------------------------
 Application of the MMPC algorithm to the datasets
+
 Breast Cancer: mmpc_cancermama
+
 Heart: mmpc_heart
+
 Hepatitis: mmpc_hepatite
+
 Divorce: mmpc_divorcio
+
 Sepsi: mmpc_sepsi
+
 Experiments_MMPC.zip
 
 --------------------------------------------------------------
