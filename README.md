@@ -27,6 +27,11 @@ Algumas datasets devem ser submetidas a pré-processamento. Por exemplo, elimina
 LUISA Algorithm
 
 LUISA uses MMPC.R available at: https://github.com/cran/MXM/blob/master/R/MMPC.R
+R Implementation of MMPC algorithm
+as described in the paper "The max-min hill-climbing Bayesian network structure learning algorithm". Machine learning, 65(1), 31-78, 2006
+by Tsamardinos, Brown and Aliferis
+R Implementation by Giorgos Athineou (2013-2014)
+VERSION: 17/3/2014
 
 LUISA uses MXM available at: https://github.com/cran/MXM/tree/master
 
