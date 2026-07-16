@@ -25,6 +25,7 @@ Algumas datasets devem ser submetidas a pré-processamento. Por exemplo, elimina
 
 --------------------------------------------------------------
 LUISA Algorithm
+    
     Authors: Walisson Ferreira de Carvalho, Beethoven M. Andrade, Luis Enrique Zárate
 
 LUISA uses MMPC.R available at: https://github.com/cran/MXM/blob/master/R/MMPC.R
