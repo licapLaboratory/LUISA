@@ -1,3 +1,8 @@
+#LUISA uses MMPC.R available at: https://github.com/cran/MXM/blob/master/R/MMPC.R
+
+#LUISA uses MXM available at: https://github.com/cran/MXM/tree/master
+
+
 library(MXMLUISA3)
 library(MMPCLUISA3)
 library(ppcor)
