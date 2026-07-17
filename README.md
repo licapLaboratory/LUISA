@@ -29,6 +29,7 @@ Algumas datasets devem ser submetidas a pré-processamento. Por exemplo, elimina
 LUISA Algorithm
     
     Authors: Walisson Ferreira de Carvalho, Beethoven M. Andrade, Luis Enrique Zárate
+    walissoncarvalho@pucminas.br; zarate@pucminas.br; 
 
 Option 1:
 
