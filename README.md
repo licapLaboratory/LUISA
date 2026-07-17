@@ -55,6 +55,21 @@ Option 2:
 
 (Observation: MMPC, MXM, and Datasets must be in the same path)
 
+--------------------------------------------------------------
+Parameters for Real-world datasets:
+
+Breast Cancer: Conditional Independence Test = testIndPois
+
+Heart: Conditional Independence Test = testIndPois
+
+Hepatitis: Conditional Independence Test = testIndLogistic
+
+Divorce: Conditional Independence Test = testIndLogistic
+
+OBS: It is possible to use the "auto" option. In this case, MMPC searches for the better test option.
+
+For all datasets: The partial correlation coefficient is 0.2 (set in LUISA); the level of significance is 5% (set in LUISA)
+
 
 --------------------------------------------------------------
 Learning models with complete dataset and application of the non-causal filters
