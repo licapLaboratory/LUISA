@@ -23,7 +23,7 @@ Divorce: divorcio1.zip
 Sepsi: sepsi.zip
 
 Important: The datasets were obtained from the UCI repository: https://archive.ics.uci.edu/ml/data sets/Divorce+Predictors+data+set
-Algumas datasets devem ser submetidas a pré-processamento. Por exemplo, eliminando as colunas que identificam o ID da instância, e imputando  valores para dados faltantes (imputando pela média ou eliminando registros que contenham dados faltantes)
+Some datasets require preprocessing—for example, by removing columns that identify the instance ID and imputing values ​​for missing data (such as mean imputation or removing records containing missing data).Some datasets require preprocessing—for example, by removing columns that identify the instance ID and imputing values ​​for missing data (such as mean imputation or removing records containing missing data).
 
 --------------------------------------------------------------
 LUISA Algorithm
